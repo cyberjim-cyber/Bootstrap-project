@@ -1,0 +1,112 @@
+.navbar-nav{
+    float: right;
+}
+
+.nav-item .nav-link{
+
+    margin: 15px 15px 0px 0px !important;
+}
+.navbar-brand{
+
+    font-size: 30px;margin: 10px 0px 0px 10px;
+}
+menu-background{
+height: 70vh !important;
+}
+
+.logo-header{
+
+    font-size: 50px;width:420px !important;margin: auto !important;margin-top: 50px !important;
+}
+.logo-description{
+
+    margin: 15px 0px 0px 15px !important;
+}
+.see-more-link{
+background-color: #353535;padding: 8px 16px 8px 16px;margin-top: 15px !important;
+
+}
+.see-more-link{
+
+    margin: 15px 0px 0px 15px !important;
+}
+.height{
+
+    height: 70vh !important;
+}
+.col-lg-6{
+
+    padding-top: 20px !important;
+}
+.logo{
+
+
+}
+nav{
+
+    padding: 0px !important;
+}
+.first-side{
+
+    height: 70vh !important;
+}
+.second-side{
+
+    height: 70vh !important;
+}
+.marketing-part,.Advertising-part{
+
+    background-color: #dab290;height: 40vh !important;
+}
+.Campaigns-part{
+
+    height: 40vh !important;
+}
+.part-3{
+
+    height: 40vh !important;
+}
+.great-idea-part{
+
+    background-color: ;height: 60vh;
+}
+.great-header{
+
+    font-size: 80px;text-align: center;color: white;
+}
+.great-idea-part{
+
+    background-color: #353535;
+}
+.img-1{
+
+  height: 300px;  width:300px !important;
+}
+.suscribe-section{
+text-align: center;
+    background-color:#dab290 ;width:800px;margin: auto;height: 200px !important;
+}
+.footer{
+
+    background-color:#353535 ;height: 80vh !important;
+}
+h4{
+
+    font-size: 40px;
+}
+.nav-list{
+
+    float: right;
+}
+.nav-list li{
+
+    float:left;list-style: none !important;
+}
+.offset-4{
+
+    margin: none !important;
+}
+.footer-description{
+
+    color:white;
+}
